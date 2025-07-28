@@ -66,10 +66,10 @@ export default function Navigation({ activeSection, onNavigate }: NavigationProp
         {/* Logo */}
         <div className="mb-8 text-gray-900 dark:text-white">
           <h1 className="text-2xl font-bold mb-2" style={{ fontFamily: '"Pacifico", serif' }}>
-            logo
+            Abishek Thapa
           </h1>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            UI/UX Designer
+          Designer
           </p>
         </div>
 

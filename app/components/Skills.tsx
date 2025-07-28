@@ -30,9 +30,9 @@ export default function Skills() {
           </p>
         </div>
         
-        <div className="grid lg:grid-cols-2 gap-8">
+        <div className="grid lg:grid-cols-1 gap-8">
           {/* Skills */}
-          <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl shadow-lg p-8 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
+          {/* <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl shadow-lg p-8 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Core Skills</h3>
             <div className="space-y-6">
               {skills.map((skill, index) => (
@@ -50,7 +50,7 @@ export default function Skills() {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
           
           {/* Tools */}
           <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl shadow-lg p-8 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
@@ -74,7 +74,7 @@ export default function Skills() {
         </div>
         
         {/* Additional Skills */}
-        <div className="mt-12 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-gray-800 dark:to-gray-700 rounded-2xl p-8 border border-gray-200 dark:border-gray-600 transition-colors duration-300">
+        {/* <div className="mt-12 bg-gradient-to-r from-blue-50 to-purple-50 dark:from-gray-800 dark:to-gray-700 rounded-2xl p-8 border border-gray-200 dark:border-gray-600 transition-colors duration-300">
           <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6 text-center">Additional Expertise</h3>
           <div className="grid md:grid-cols-3 gap-6">
             <div className="text-center">
@@ -99,7 +99,7 @@ export default function Skills() {
               <p className="text-sm text-gray-600 dark:text-gray-400">Creating responsive designs optimized for mobile devices</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
