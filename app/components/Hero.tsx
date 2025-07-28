@@ -16,10 +16,10 @@ export default function Hero() {
               
               <div>
                 <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-4">
-                  Hi, I'm <span className="text-blue-600 dark:text-blue-400">John</span>
+                  Hi, I'm <span className="text-blue-600 dark:text-blue-400">Abishek Thapa</span>
                 </h1>
                 <h2 className="text-3xl lg:text-4xl font-semibold text-gray-700 dark:text-gray-300 mb-6">
-                  Senior UI/UX Designer
+                   Designer
                 </h2>
                 <p className="text-xl text-gray-600 dark:text-gray-400 leading-relaxed">
                   I create beautiful, functional, and user-centered digital experiences that solve real problems and drive business growth.
@@ -50,7 +50,7 @@ export default function Hero() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500 dark:text-gray-400">Location</p>
-                    <p className="font-medium text-gray-900 dark:text-white">New York, USA</p>
+                    <p className="font-medium text-gray-900 dark:text-white">Pokhara, Nepal</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -64,7 +64,7 @@ export default function Hero() {
                 </div>
               </div>
             </div>
-            
+           
             <div className="relative">
               <div className="relative z-10">
                 <img 
@@ -72,9 +72,9 @@ export default function Hero() {
                   alt="Designer portrait"
                   className="w-full h-96 object-cover object-top rounded-2xl shadow-2xl"
                 />
-                
-                {/* Floating Elements */}
-                <div className="absolute -top-6 -right-6 bg-white dark:bg-gray-800 rounded-xl shadow-lg p-4 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
+              
+                {/* Floating Icons */}
+                {/* <div className="absolute -top-6 -right-6 bg-white dark:bg-gray-800 rounded-xl shadow-lg p-4 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
                   <div className="flex items-center space-x-3">
                     <div className="w-10 h-10 bg-green-100 dark:bg-green-900 rounded-full flex items-center justify-center">
                       <i className="ri-trophy-line text-green-600 dark:text-green-400"></i>
@@ -84,8 +84,8 @@ export default function Hero() {
                       <p className="text-xs text-gray-500 dark:text-gray-400">Design Excellence 2024</p>
                     </div>
                   </div>
-                </div>
-                
+                </div> */}
+                {/*
                 <div className="absolute -bottom-6 -left-6 bg-white dark:bg-gray-800 rounded-xl shadow-lg p-4 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
                   <div className="flex items-center space-x-3">
                     <div className="w-10 h-10 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center">
@@ -96,7 +96,7 @@ export default function Hero() {
                       <p className="text-xs text-gray-500 dark:text-gray-400">Happy Clients</p>
                     </div>
                   </div>
-                </div>
+                 </div>  */}
               </div>
               
               {/* Background Decorations */}
@@ -107,7 +107,7 @@ export default function Hero() {
               </div>
             </div>
           </div>
-        </div>
+         </div> 
       </div>
     </section>
   );
