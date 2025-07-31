@@ -157,7 +157,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-600 dark:text-gray-400">Email</p>
-                    <p className="font-medium text-gray-900 dark:text-white">john.doe@email.com</p>
+                    <p className="font-medium text-gray-900 dark:text-white">abishekthapa358@gmail.com</p>
                   </div>
                 </div>
                 
@@ -167,7 +167,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-600 dark:text-gray-400">Phone</p>
-                    <p className="font-medium text-gray-900 dark:text-white">+1 (555) 123-4567</p>
+                    <p className="font-medium text-gray-900 dark:text-white">+977 9827188140</p>
                   </div>
                 </div>
                 
@@ -177,7 +177,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-600 dark:text-gray-400">Location</p>
-                    <p className="font-medium text-gray-900 dark:text-white">New York, NY</p>
+                    <p className="font-medium text-gray-900 dark:text-white">Pokhara, Nepal</p>
                   </div>
                 </div>
               </div>
@@ -186,17 +186,20 @@ export default function Contact() {
             <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl shadow-lg p-8 border border-gray-200 dark:border-gray-700 transition-colors duration-300">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">Follow Me</h3>
               <div className="flex space-x-4">
-                <a href="#" className="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center hover:bg-blue-200 dark:hover:bg-blue-800 transition-colors cursor-pointer">
+                <a href="https://www.linkedin.com/in/abishek-thapa-202b531a8/" className="w-12 h-12 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center hover:bg-blue-200 dark:hover:bg-blue-800 transition-colors cursor-pointer">
                   <i className="ri-linkedin-line text-blue-600 dark:text-blue-400"></i>
                 </a>
-                <a href="#" className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors cursor-pointer">
+                <a href="https://x.com/Abhishekthapa09" className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors cursor-pointer">
                   <i className="ri-twitter-line text-gray-600 dark:text-gray-400"></i>
                 </a>
-                <a href="#" className="w-12 h-12 bg-pink-100 dark:bg-pink-900 rounded-full flex items-center justify-center hover:bg-pink-200 dark:hover:bg-pink-800 transition-colors cursor-pointer">
+                <a href="https://dribbble.com/abishekthapa" className="w-12 h-12 bg-pink-100 dark:bg-pink-900 rounded-full flex items-center justify-center hover:bg-pink-200 dark:hover:bg-pink-800 transition-colors cursor-pointer">
                   <i className="ri-dribbble-line text-pink-600 dark:text-pink-400"></i>
                 </a>
-                <a href="#" className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors cursor-pointer">
+                <a href="https://github.com/Abishekthapa09" className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors cursor-pointer">
                   <i className="ri-github-line text-gray-600 dark:text-gray-400"></i>
+                </a>
+                <a href="https://www.behance.net/abishekthapa3" className="w-12 h-12 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors cursor-pointer">
+                  <i className="ri-behance-line text-gray-600 dark:text-gray-400"></i>
                 </a>
               </div>
             </div>
